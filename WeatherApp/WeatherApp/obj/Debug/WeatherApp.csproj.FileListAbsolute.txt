@@ -11,3 +11,16 @@ D:\Google\WeatherApp-master\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileIn
 D:\Google\WeatherApp-master\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
 D:\Google\WeatherApp-master\WeatherApp\obj\Debug\WeatherApp.exe
 D:\Google\WeatherApp-master\WeatherApp\obj\Debug\WeatherApp.pdb
+D:\Google\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\Google\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+D:\Google\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\Google\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\Google\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.MainForm.resources
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+D:\Google\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
